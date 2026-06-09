@@ -1,20 +1,29 @@
-# PCM Advanced Notes
+# PCM Advanced Detailed Markdown Notes — Week 1 Day 1 to Day 5
 
-This repository-style folder contains the notes covered so far from the advanced-only Class XI-XII PCM walkthrough.
+This package contains detailed end-of-day Markdown documents for the completed days of the advanced PCM plan.
 
-## Current coverage
+## Files
 
-| Week | Day | Output |
-|---|---:|---|
-| 1 | 1 | Symbol sheet |
-| 1 | 2 | Graph diary |
-| 1 | 3 | Vector drill |
-| 1 | 4 | Concept maps |
-| 1 | 5 | Derivation notes |
+| Day | Document | Required output |
+|---|---|---|
+| Week 1 Day 1 | `week-01/day-01-symbol-sheet.md` | Symbol sheet |
+| Week 1 Day 2 | `week-01/day-02-graph-diary.md` | Graph diary |
+| Week 1 Day 3 | `week-01/day-03-vector-drill.md` | Vector drill |
+| Week 1 Day 4 | `week-01/day-04-concept-maps.md` | Concept maps |
+| Week 1 Day 5 | `week-01/day-05-derivation-notes.md` | Derivation notes |
 
-## Rules for future notes
+## Standard used
 
-1. Do not mark a day complete until every listed topic is covered.
-2. Every problem must include a difficulty rating.
-3. Practice questions should be JEE Advanced / Olympiad level unless easier warm-up is explicitly requested.
-4. Each day file should include summary, formulas, short notes, important derivations, and completion checklist.
+Every day document includes:
+
+1. plan row and completion status,
+2. detailed readings for Mathematics, Physics, and Chemistry,
+3. formulas and conditions of validity,
+4. important derivations,
+5. solved examples and corrections from the session,
+6. JEE Advanced / Olympiad practice record where applicable,
+7. short ways, traps, and memory hooks,
+8. required daily output,
+9. final completion checklist.
+
+Future day documents should follow this same level of detail.

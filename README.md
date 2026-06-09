@@ -1,3 +1,43 @@
+# PCM Advanced Notes
+
+## Markdown/math formatting
+
+This repository uses GitHub-compatible math syntax:
+
+```markdown
+$$
+E_n=-\frac{13.6Z^2}{n^2}\text{ eV}
+$$
+```
+
+So formulas render properly on GitHub instead of appearing as plain square-bracket text.
+
+
+A GitHub-ready Markdown repository for the completed advanced PCM study days.
+
+## Quick navigation
+
+- [`INDEX.md`](INDEX.md)
+- [`week-01/`](week-01/)
+- [`reference/`](reference/)
+
+## Current coverage
+
+Week 1 Day 1 to Day 5 are included.
+
+## How to add to GitHub
+
+```bash
+git init
+git add .
+git commit -m "Add detailed PCM notes for week 1 day 1 to day 5"
+git branch -M main
+git remote add origin https://github.com/<your-username>/<your-repo>.git
+git push -u origin main
+```
+
+---
+
 # PCM Advanced Detailed Markdown Notes — Week 1 Day 1 to Day 5
 
 This package contains detailed end-of-day Markdown documents for the completed days of the advanced PCM plan.
